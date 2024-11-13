@@ -17,13 +17,13 @@ _Conocimientos necesarios_:
 **Desarrollo Web,**    **Front-end,**    **HTML,**    **Java,**    **MySQL,**    **PHP.**     
 
 **¿Qué necesitamos de tu perfil?**  
-+1 año de experiencia trabajando con tecnologías como **Java** O **.Net** O **Angular** O **React**  
-Experiencia trabajando con metodología ágil.  
-Eres un apasionado de las nuevas tecnologías y te interesa estar al día de estas.  
-Buscas un lugar estable donde poder desarrollar tu carrera profesional.  
-Estás abierto/a a nuevos retos y seguir aprendiendo día a día.  
-Disfrutas del trabajo en equipo y compartir el día a día junto a los compañeros.  
-Capacidad para trabajar en un entorno de trabajo ágil y en equipo.  
+- +1 año de experiencia trabajando con tecnologías como **Java** O **.Net** O **Angular** O **React**    
+- Experiencia trabajando con metodología ágil.    
+- Eres un apasionado de las nuevas tecnologías y te interesa estar al día de estas.    
+- Buscas un lugar estable donde poder desarrollar tu carrera profesional.    
+- Estás abierto/a a nuevos retos y seguir aprendiendo día a día.    
+- Disfrutas del trabajo en equipo y compartir el día a día junto a los compañeros.    
+- Capacidad para trabajar en un entorno de trabajo ágil y en equipo.     
 
 ## 2. Curriculum   
 
